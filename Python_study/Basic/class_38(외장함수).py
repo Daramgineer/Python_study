@@ -17,7 +17,7 @@ else:
     print(folder, '폴더를 생성하였습니다.')
 
 print(os.listdir())
-력
+
 #time : 시간관련 함수
 import time
 print(time.localtime())
