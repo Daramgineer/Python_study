@@ -1,4 +1,7 @@
-# Python Coding Test(BeakJoon)
+# 1) Basic Python Study
+# 2) Python GUI Study(tkinter)
+# 3) Python Game(pygame)
+# 4) Python Coding Test(BeakJoon)
 
 | 문제 | 설명 | 링크|
 |---|---|---|
