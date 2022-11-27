@@ -1,7 +1,4 @@
-1) Basic Python Study
-2) Python GUI Study(tkinter)
-3) Python Game(pygame)
-4) Python Coding Test(BeakJoon)
+Python에 대한 기초지식 및 활용에 대한 study
 
 | 목차 | 이름 | 설명 | 링크 |
 |---|---|---|---|
