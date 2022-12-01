@@ -12,13 +12,10 @@ def c(a,b):
             count += 1
     return count
 
-result = []
-while True:
-    a = int(input())
-    if a == 0:
-        break
-    result.append(c(a,2*a))
-    
-for i in result:
-    print(i)
-    
+List = []
+a = int(input())
+for _ in range(a):
+    x = int(input())
+    c(1,x)
+
+
