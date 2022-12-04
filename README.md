@@ -1,5 +1,6 @@
 Python에 대한 기초지식 및 활용에 대한 study
 exercism.io 방문후 확인할것. 코딩 스터디 관련.
+https://wikidocs.net/book/1553 파이썬 관련 스터티
 
 
 | 목차 | 이름 | 설명 | 링크 |
